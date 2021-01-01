@@ -65,7 +65,7 @@
 </td>
 <td width="25%" align="center">
 <span>Apache Tomcat</span><br/><br/><br/>
-<img height="64px" src="https://cdn.svgporn.com/logos/tomacat.svg">
+<img height="64px" src="https://cdn.svgporn.com/logos/tomcat.svg">
 </td>
 </tr>
 </tbody>
@@ -144,8 +144,7 @@
 ## Tools of Trade
 
 - NEOVIM/VIM
-
-![Neovim](https://cdn.svgporn.com/logos/neovim.svg)
+<img height="64px" src="https://cdn.svgporn.com/logos/neovim.svg">
 
 - AWK, SED, GREP
 - GIT
