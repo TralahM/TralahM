@@ -9,9 +9,6 @@
 
 # Technologies
 
-- Django
-- Firebase
-
 <table>
 <tbody>
 <tr valign="top">
@@ -132,36 +129,29 @@
 </tbody>
 </table>
 
-### Markup Languages
-- Tex
-- Jinja2
-- Liquid
-- Markdown
-- YAML
-- Restructured Text (RST)
-- HTML
-
 ## Tools of Trade
 
 - NEOVIM/VIM
 <img height="64px" src="https://cdn.svgporn.com/logos/neovim.svg">
 
-- AWK, SED, GREP
-- GIT
-- TMUX
-- ZSH
-- SSH
-- Mutt Mail Client
-- JQ Parser.
+| AWK, SED, GREP | GIT | TMUX | ZSH | SSH | Mutt Mail Client | JQ Parser |
 
 ## Certifications
-- Applied Data Science With Python
 
-[![Applied Data Science With Python Level 2](assets/applied-data-science-with-python-level-2.png)](https://www.youracclaim.com/badges/bd35716f-5655-40ca-acb8-6135cdcfaeac/public_url)
-
-- Machine Learning With Python
-
-[![Machine Learning With Python Level 1](assets/machine-learning-with-python-level-1.png)](https://www.youracclaim.com/badges/0080c800-73d6-4c0b-ba1f-b5ee56bb19f4/public_url)
+<table>
+<tbody>
+<tr align="top">
+<td align="center">
+<span>Applied Data Science With Python</span><br/><br/><br/>
+<img height="64px" src="assets/applied-data-science-with-python-level-2.png">
+</td>
+<td align="center">
+<span>Machine Learning With Python</span><br/><br/><br/>
+<img height="64px" src="assets/machine-learning-with-python-level-1.png">
+</td>
+</tr>
+</tbody>
+</table>
 
 
 <br />
