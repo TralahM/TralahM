@@ -7,8 +7,11 @@
 
 <br />
 
-# Technologies
-
+<table>
+<tbody>
+<tr valign="top">
+<td align="center">
+<span> Technologies</span><br><br><br>
 <table>
 <tbody>
 <tr valign="top">
@@ -67,9 +70,9 @@
 </tr>
 </tbody>
 </table>
-
-## Programming Languages
-
+</td>
+<td align="center">
+<span> Programming Languages</span><br><br><br>
 <table>
 <tbody>
 <tr valign="top">
@@ -128,13 +131,16 @@
 </tr>
 </tbody>
 </table>
-
-
+</td>
+</tr>
+</tbody>
+</table>
+<br>
 ## Certifications
 
 <table>
 <tbody>
-<tr align="top">
+<tr valign="top">
 <td align="center">
 <span>Applied Data Science With Python</span><br/><br/><br/>
 <img height="32px" src="assets/applied-data-science-with-python-level-2.png">
