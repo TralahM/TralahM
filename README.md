@@ -14,55 +14,55 @@
 <tr valign="top">
 <td width="25%" align="center">
 <span>Ansible</span><br/><br/><br/>
-<img height="64px" src="https://cdn.svgporn.com/logos/ansible.svg">
+<img height="32px" src="https://cdn.svgporn.com/logos/ansible.svg">
 </td>
 <td width="25%" align="center">
 <span>Heroku</span><br/><br/><br/>
-<img height="64px" src="https://cdn.svgporn.com/logos/heroku.svg">
+<img height="32px" src="https://cdn.svgporn.com/logos/heroku.svg">
 </td>
 <td width="25%" align="center">
 <span>Flutter</span><br/><br/><br/>
-<img height="64px" src="https://cdn.svgporn.com/logos/flutter.svg">
+<img height="32px" src="https://cdn.svgporn.com/logos/flutter.svg">
 </td>
 <td width="25%" align="center">
 <span>Docker</span><br/><br/><br/>
-<img height="64px" src="https://cdn.svgporn.com/logos/docker.svg">
+<img height="32px" src="https://cdn.svgporn.com/logos/docker.svg">
 </td>
 </tr>
 <tr valign="top">
 <td width="25%" align="center">
 <span>Linux OS</span><br/><br/><br/>
-<img height="64px" src="https://cdn.svgporn.com/logos/linux-tux.svg">
+<img height="32px" src="https://cdn.svgporn.com/logos/linux-tux.svg">
 </td>
 <td width="25%" align="center">
 <span>PostgreSQL</span><br/><br/><br/>
-<img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
+<img height="32px" src="https://cdn.svgporn.com/logos/postgresql.svg">
 </td>
 <td width="25%" align="center">
 <span>Nginx</span><br/><br/><br/>
-<img height="64px" src="https://cdn.svgporn.com/logos/nginx.svg">
+<img height="32px" src="https://cdn.svgporn.com/logos/nginx.svg">
 </td>
 <td width="25%" align="center">
 <span>GIT</span><br/><br/><br/>
-<img height="64px" src="https://cdn.svgporn.com/logos/git.svg">
+<img height="32px" src="https://cdn.svgporn.com/logos/git.svg">
 </td>
 </tr>
 <tr valign="top">
 <td width="25%" align="center">
 <span>Django</span><br/><br/><br/>
-<img height="64px" src="https://cdn.svgporn.com/logos/django.svg">
+<img height="32px" src="https://cdn.svgporn.com/logos/django.svg">
 </td>
 <td width="25%" align="center">
 <span>Firebase</span><br/><br/><br/>
-<img height="64px" src="https://cdn.svgporn.com/logos/firebase.svg">
+<img height="32px" src="https://cdn.svgporn.com/logos/firebase.svg">
 </td>
 <td width="25%" align="center">
 <span>Redis</span><br/><br/><br/>
-<img height="64px" src="https://cdn.svgporn.com/logos/redis.svg">
+<img height="32px" src="https://cdn.svgporn.com/logos/redis.svg">
 </td>
 <td width="25%" align="center">
 <span>Apache Tomcat</span><br/><br/><br/>
-<img height="64px" src="https://cdn.svgporn.com/logos/tomcat.svg">
+<img height="32px" src="https://cdn.svgporn.com/logos/tomcat.svg">
 </td>
 </tr>
 </tbody>
@@ -75,55 +75,55 @@
 <tr valign="top">
 <td width="25%" align="center">
 <span>Python</span><br/><br/><br/>
-<img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+<img height="32px" src="https://cdn.svgporn.com/logos/python.svg">
 </td>
 <td width="25%" align="center">
 <span>C</span><br/><br/><br/>
-<img height="64px" src="https://cdn.svgporn.com/logos/c.svg">
+<img height="32px" src="https://cdn.svgporn.com/logos/c.svg">
 </td>
 <td width="25%" align="center">
 <span>Dart</span><br/><br/><br/>
-<img height="64px" src="https://cdn.svgporn.com/logos/dart.svg">
+<img height="32px" src="https://cdn.svgporn.com/logos/dart.svg">
 </td>
 <td width="25%" align="center">
 <span>Rust</span><br/><br/><br/>
-<img height="64px" src="https://cdn.svgporn.com/logos/rust.svg">
+<img height="32px" src="https://cdn.svgporn.com/logos/rust.svg">
 </td>
 </tr>
 <tr valign="top">
 <td width="25%" align="center">
 <span>C++</span><br/><br/><br/>
-<img height="64px" src="https://cdn.svgporn.com/logos/c-plusplus.svg">
+<img height="32px" src="https://cdn.svgporn.com/logos/c-plusplus.svg">
 </td>
 <td width="25%" align="center">
 <span>Scala</span><br/><br/><br/>
-<img height="64px" src="https://cdn.svgporn.com/logos/scala.svg">
+<img height="32px" src="https://cdn.svgporn.com/logos/scala.svg">
 </td>
 <td width="25%" align="center">
 <span>Javascript</span><br/><br/><br/>
-<img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+<img height="32px" src="https://cdn.svgporn.com/logos/javascript.svg">
 </td>
 <td width="25%" align="center">
 <span>Go</span><br/><br/><br/>
-<img height="64px" src="https://cdn.svgporn.com/logos/go.svg">
+<img height="32px" src="https://cdn.svgporn.com/logos/go.svg">
 </td>
 </tr>
 <tr valign="top">
 <td width="25%" align="center">
 <span>Common Lisp</span><br/><br/><br/>
-<img height="64px" src="https://cdn.svgporn.com/logos/clojure.svg">
+<img height="32px" src="https://cdn.svgporn.com/logos/clojure.svg">
 </td>
 <td width="25%" align="center">
 <span>Shell</span><br/><br/><br/>
-<img height="64px" src="https://cdn.svgporn.com/logos/bash.svg">
+<img height="32px" src="https://cdn.svgporn.com/logos/bash.svg">
 </td>
 <td width="25%" align="center">
 <span>Arduino</span><br/><br/><br/>
-<img height="64px" src="https://cdn.svgporn.com/logos/arduino.svg">
+<img height="32px" src="https://cdn.svgporn.com/logos/arduino.svg">
 </td>
 <td width="25%" align="center">
 <span>Assembly</span><br/><br/><br/>
-<img height="64px" src="https://cdn.svgporn.com/logos/gnu.svg">
+<img height="32px" src="https://cdn.svgporn.com/logos/gnu.svg">
 </td>
 </tr>
 </tbody>
@@ -137,11 +137,11 @@
 <tr align="top">
 <td align="center">
 <span>Applied Data Science With Python</span><br/><br/><br/>
-<img height="64px" src="assets/applied-data-science-with-python-level-2.png">
+<img height="32px" src="assets/applied-data-science-with-python-level-2.png">
 </td>
 <td align="center">
 <span>Machine Learning With Python</span><br/><br/><br/>
-<img height="64px" src="assets/machine-learning-with-python-level-1.png">
+<img height="32px" src="assets/machine-learning-with-python-level-1.png">
 </td>
 </tr>
 </tbody>
