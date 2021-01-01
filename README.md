@@ -143,11 +143,11 @@
 <tr valign="top">
 <td align="center">
 <span>Applied Data Science With Python</span><br/><br/><br/>
-<img height="32px" src="assets/applied-data-science-with-python-level-2.png">
+<img height="64px" src="assets/applied-data-science-with-python-level-2.png">
 </td>
 <td align="center">
 <span>Machine Learning With Python</span><br/><br/><br/>
-<img height="32px" src="assets/machine-learning-with-python-level-1.png">
+<img height="64px" src="assets/machine-learning-with-python-level-1.png">
 </td>
 </tr>
 </tbody>
