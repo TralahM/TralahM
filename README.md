@@ -16,6 +16,8 @@
 - NoSQL
 - Nginx
 - Git Version Control
+- Django
+- Firebase
 
 ## Programming Languages
 - Python
@@ -37,11 +39,14 @@
 
 ## Tools of Trade
 - NEOVIM/VIM
+- AWK, SED, GREP
 - GIT
 - TMUX
 - ZSH
 - SSH
 - Mutt Mail Client
+- JQ Parser.
+
 ## Certifications
 - Applied Data Science With Python
 
