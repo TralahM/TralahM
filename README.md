@@ -9,27 +9,128 @@
 
 # Technologies
 
-- Ansible
-- Heroku
-- Flutter
-- Docker
-- Linux System Administration
-- SQL
-- NoSQL
-- Nginx
-- Git Version Control
 - Django
 - Firebase
 
+<table>
+<tbody>
+<tr valign="top">
+<td width="25%" align="center">
+<span>Ansible</span><br/><br/><br/>
+<img height="64px" src="https://cdn.svgporn.com/logos/ansible.svg">
+</td>
+<td width="25%" align="center">
+<span>Heroku</span><br/><br/><br/>
+<img height="64px" src="https://cdn.svgporn.com/logos/heroku.svg">
+</td>
+<td width="25%" align="center">
+<span>Flutter</span><br/><br/><br/>
+<img height="64px" src="https://cdn.svgporn.com/logos/flutter.svg">
+</td>
+<td width="25%" align="center">
+<span>Docker</span><br/><br/><br/>
+<img height="64px" src="https://cdn.svgporn.com/logos/docker.svg">
+</td>
+</tr>
+<tr valign="top">
+<td width="25%" align="center">
+<span>Linux OS</span><br/><br/><br/>
+<img height="64px" src="https://cdn.svgporn.com/logos/linux-tux.svg">
+</td>
+<td width="25%" align="center">
+<span>PostgreSQL</span><br/><br/><br/>
+<img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
+</td>
+<td width="25%" align="center">
+<span>Nginx</span><br/><br/><br/>
+<img height="64px" src="https://cdn.svgporn.com/logos/nginx.svg">
+</td>
+<td width="25%" align="center">
+<span>GIT</span><br/><br/><br/>
+<img height="64px" src="https://cdn.svgporn.com/logos/git.svg">
+</td>
+</tr>
+<tr valign="top">
+<td width="25%" align="center">
+<span>Django</span><br/><br/><br/>
+<img height="64px" src="https://cdn.svgporn.com/logos/django.svg">
+</td>
+<td width="25%" align="center">
+<span>Firebase</span><br/><br/><br/>
+<img height="64px" src="https://cdn.svgporn.com/logos/firebase.svg">
+</td>
+<td width="25%" align="center">
+<span>Redis</span><br/><br/><br/>
+<img height="64px" src="https://cdn.svgporn.com/logos/redis.svg">
+</td>
+<td width="25%" align="center">
+<span>Apache Tomcat</span><br/><br/><br/>
+<img height="64px" src="https://cdn.svgporn.com/logos/tomacat.svg">
+</td>
+</tr>
+</tbody>
+</table>
+
 ## Programming Languages
 
-- Python
-- Lisp
-- Dart
-- C/C++
-- Shell Scripting
-- Javascript
-- Rust
+<table>
+<tbody>
+<tr valign="top">
+<td width="25%" align="center">
+<span>Python</span><br/><br/><br/>
+<img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+</td>
+<td width="25%" align="center">
+<span>C</span><br/><br/><br/>
+<img height="64px" src="https://cdn.svgporn.com/logos/c.svg">
+</td>
+<td width="25%" align="center">
+<span>Dart</span><br/><br/><br/>
+<img height="64px" src="https://cdn.svgporn.com/logos/dart.svg">
+</td>
+<td width="25%" align="center">
+<span>Rust</span><br/><br/><br/>
+<img height="64px" src="https://cdn.svgporn.com/logos/rust.svg">
+</td>
+</tr>
+<tr valign="top">
+<td width="25%" align="center">
+<span>C++</span><br/><br/><br/>
+<img height="64px" src="https://cdn.svgporn.com/logos/c-plusplus.svg">
+</td>
+<td width="25%" align="center">
+<span>Scala</span><br/><br/><br/>
+<img height="64px" src="https://cdn.svgporn.com/logos/scala.svg">
+</td>
+<td width="25%" align="center">
+<span>Javascript</span><br/><br/><br/>
+<img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+</td>
+<td width="25%" align="center">
+<span>Go</span><br/><br/><br/>
+<img height="64px" src="https://cdn.svgporn.com/logos/go.svg">
+</td>
+</tr>
+<tr valign="top">
+<td width="25%" align="center">
+<span>Common Lisp</span><br/><br/><br/>
+<img height="64px" src="https://cdn.svgporn.com/logos/clojure.svg">
+</td>
+<td width="25%" align="center">
+<span>Shell</span><br/><br/><br/>
+<img height="64px" src="https://cdn.svgporn.com/logos/bash.svg">
+</td>
+<td width="25%" align="center">
+<span>Arduino</span><br/><br/><br/>
+<img height="64px" src="https://cdn.svgporn.com/logos/arduino.svg">
+</td>
+<td width="25%" align="center">
+<span>Assembly</span><br/><br/><br/>
+<img height="64px" src="https://cdn.svgporn.com/logos/gnu.svg">
+</td>
+</tr>
+</tbody>
+</table>
 
 ### Markup Languages
 - Tex
@@ -41,7 +142,11 @@
 - HTML
 
 ## Tools of Trade
+
 - NEOVIM/VIM
+
+![Neovim](https://cdn.svgporn.com/logos/neovim.svg)
+
 - AWK, SED, GREP
 - GIT
 - TMUX
