@@ -1,5 +1,7 @@
 ### Hi there, I'm [TralahM!](https://tralahm.tralahtek.com) 👋
 
+[![Blog](https://img.shields.io/badge/Blog-tralahm.tralahtek.com-blue.svg?style=for-the-badge&logo=rss)](https://tralahm.tralahtek.com)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=TralahM.TralahM)
 
 ![Tralah M Brian Github Stats](https://github-readme-stats.vercel.app/api?username=TralahM&show_icons=true)
 
@@ -137,19 +139,6 @@
 
 
 ## Support me
-<p align="center">
-  <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WFKVHBRCYEE6S&source=url" target="_blank">
-      <img width="18%" alt="Donate with Paypal" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-paypal.png"/>
-  </a>
-</p>
-
-[![Blog](https://img.shields.io/badge/Blog-tralahm.tralahtek.com-blue.svg?style=for-the-badge&logo=rss)](https://tralahm.tralahtek.com)
-
-
-#### Thank You
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=TralahM.TralahM)
-
-
-⭐️ From [TralahM](https://github.com/TralahM)
-***********************************
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WFKVHBRCYEE6S&source=url" target="_blank">
+      <img width="18%"height="32px" alt="Donate with Paypal" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-paypal.png"/>
+</a>
