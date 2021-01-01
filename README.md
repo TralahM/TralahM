@@ -7,6 +7,12 @@
 
 <br />
 
+## Support me
+<p align="center">
+  <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WFKVHBRCYEE6S&source=url" target="_blank">
+      <img width="18%" alt="Donate with Paypal" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-paypal.png"/>
+  </a>
+</p>
 
 <br />
 
