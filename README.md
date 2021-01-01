@@ -6,6 +6,45 @@
 ![Tralah M Brian Github Stats](https://github-readme-stats.vercel.app/api?username=TralahM&show_icons=true)
 
 <br />
+## Technologies
+- Ansible
+- Heroku
+- Flutter
+- Docker
+- Linux System Administration
+- SQL
+- NoSQL
+- Nginx
+- Git Version Control
+## Programming Languages
+- Python
+- Lisp
+- Dart
+- C/C++
+- Shell Scripting
+- Javascript
+- Rust
+### Markup Languages
+- Tex
+- Jinja2
+- Liquid
+- Markdown
+- YAML
+- Restructured Text (RST)
+- HTML
+## Tools of Trade
+- NEOVIM/VIM
+- GIT
+- TMUX
+- ZSH
+- SSH
+- Mutt Mail Client
+## Certifications
+- Applied Data Science With Python
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="bd35716f-5655-40ca-acb8-6135cdcfaeac" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
+- Machine Learning With Python
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0080c800-73d6-4c0b-ba1f-b5ee56bb19f4" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
+<br />
 
 ## Support me
 <p align="center">
