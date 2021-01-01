@@ -6,7 +6,9 @@
 ![Tralah M Brian Github Stats](https://github-readme-stats.vercel.app/api?username=TralahM&show_icons=true)
 
 <br />
+
 # Technologies
+
 - Ansible
 - Heroku
 - Flutter
@@ -20,6 +22,7 @@
 - Firebase
 
 ## Programming Languages
+
 - Python
 - Lisp
 - Dart
@@ -50,11 +53,12 @@
 ## Certifications
 - Applied Data Science With Python
 
-![Applied Data Science With Python Level 2](assets/applied-data-science-with-python-level-2.png)
+[![Applied Data Science With Python Level 2](assets/applied-data-science-with-python-level-2.png)](https://www.youracclaim.com/badges/bd35716f-5655-40ca-acb8-6135cdcfaeac/public_url)
 
 - Machine Learning With Python
 
-![Machine Learning With Python Level 1](assets/machine-learning-with-python-level-1.png)
+[![Machine Learning With Python Level 1](assets/machine-learning-with-python-level-1.png)](https://www.youracclaim.com/badges/0080c800-73d6-4c0b-ba1f-b5ee56bb19f4/public_url)
+
 
 <br />
 
