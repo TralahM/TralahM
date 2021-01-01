@@ -145,11 +145,15 @@
 <tr valign="top">
 <td align="center">
 <span>Applied Data Science With Python</span><br/><br/><br/>
+<a href="https://www.youracclaim.com/badges/bd35716f-5655-40ca-acb8-6135cdcfaeac/public_url" target="_blank">
 <img height="64px" src="assets/applied-data-science-with-python-level-2.png">
+</a>
 </td>
 <td align="center">
 <span>Machine Learning With Python</span><br/><br/><br/>
+<a href="https://www.youracclaim.com/badges/0080c800-73d6-4c0b-ba1f-b5ee56bb19f4/public_url" target="_blank">
 <img height="64px" src="assets/machine-learning-with-python-level-1.png">
+</a>
 </td>
 </tr>
 </tbody>
