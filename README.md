@@ -1,4 +1,4 @@
-### Hi there, I'm [TralahM!](https://tralahm.tralahtek.com) 👋.  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/pronouns/hehim.svg" >
+### Hi there, I'm [TralahM!](https://tralahm.tralahtek.com) 👋
 
 
 
@@ -129,12 +129,6 @@
 </tbody>
 </table>
 
-## Tools of Trade
-
-- NEOVIM/VIM
-<img height="64px" src="https://cdn.svgporn.com/logos/neovim.svg">
-
-| AWK, SED, GREP | GIT | TMUX | ZSH | SSH | Mutt Mail Client | JQ Parser |
 
 ## Certifications
 
@@ -153,7 +147,6 @@
 </tbody>
 </table>
 
-
 <br />
 
 ## Support me
@@ -163,9 +156,7 @@
   </a>
 </p>
 
-<br />
 
-***********************************
 [![](https://img.shields.io/badge/Github-TralahM-green?style=for-the-badge&logo=github)](https://github.com/TralahM)
 [![](https://img.shields.io/badge/Twitter-%40TralahM-blue?style=for-the-badge&logo=twitter)](https://twitter.com/TralahM)
 [![TralahM](https://img.shields.io/badge/Kaggle-TralahM-purple.svg?style=for-the-badge&logo=kaggle)](https://kaggle.com/TralahM)
@@ -177,9 +168,9 @@
 
 ***********************************
 #### Thank You
-##### Visitors
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=TralahM.TralahM)
 
 
 ⭐️ From [TralahM](https://github.com/TralahM)
+***********************************
