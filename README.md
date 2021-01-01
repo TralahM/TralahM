@@ -82,8 +82,10 @@
 
 
 ***********************************
-#### Thank You-🙏🏼
+#### Thank You
+##### Visitors
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=TralahM.TralahM)
 
 
 ⭐️ From [TralahM](https://github.com/TralahM)
