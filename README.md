@@ -43,6 +43,7 @@
 ![FFMPEG](https://img.shields.io/badge/-FFMPEG-000?&logo=ffmpeg&logoColor=007808)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git&logoColor=F05032)
 ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=pandas)
+![Numpy](https://img.shields.io/badge/-Numpy-000?&logo=numpy)
 ![Scipy](https://img.shields.io/badge/-Scipy-000?&logo=scipy)
 ![Plesk](https://img.shields.io/badge/-Plesk-000?&logo=plesk)
 ![Suckless](https://img.shields.io/badge/-Suckless-000?&logo=suckless)
