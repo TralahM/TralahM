@@ -4,23 +4,26 @@
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
+![Lisp](https://img.shields.io/badge/-Lisp-000?&logo=Lisp)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![Java](https://img.shields.io/badge/-Java-000?&logo=java&logoColor=007396)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart)
-![Bash](https://img.shields.io/badge/-Bash-000?&logo=Bash)
+![Bash](https://img.shields.io/badge/-Bash-000?&logo=bash)
 
 
 ### Technologies
 
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Vim](https://img.shields.io/badge/-Vim-000?&logo=Vim)
 ![MongoDB](https://img.shields.io/badge/-Mongodb-000?&logo=Mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-Postgresql-000?&logo=Postgresql)
 ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
 
 
 <b>🔥 Github Streaks</b>
