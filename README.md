@@ -1,8 +1,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=TralahM.TralahM)
 
-![Tralah M Brian Github Stats](https://github-readme-stats.vercel.app/api?username=TralahM&show_icons=true)
 
-### Languages
+### Programming Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
@@ -27,3 +26,6 @@
 
 <b>🔥 Github Streaks</b>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tralahm&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="tralahm" /></p>
+
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=TralahM&show_icons=true)
