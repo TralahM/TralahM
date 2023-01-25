@@ -2,11 +2,11 @@
 
 ### Programming Languages
 
-![Python](https://img.shields.io/badge/-Python-?&logo=Python)
-![Go](https://img.shields.io/badge/-Go-?&logo=Go)
-![Lisp](https://img.shields.io/badge/-Lisp-?&logo=Lisp)
-![C](https://img.shields.io/badge/-C-?&logo=C)
-![C++](https://img.shields.io/badge/-C++-?&logo=cplusplus)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
+![Lisp](https://img.shields.io/badge/-Lisp-000?&logo=Lisp)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![C++](https://img.shields.io/badge/-C++-000?&logo=cplusplus)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=java&logoColor=007396)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
