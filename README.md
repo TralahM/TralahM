@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=0EAEFF&center=true&width=435&lines=Mathematician%2C+Software+Craftsman%2C+Computer+Scientist.;7%2B+years+of+Programming+Experience;Python%2C+Go%2C+Lisp%2C+C%2C+Kotlin%2C+C%2B%2B%2C+SQL%2C+Dart%2C+Bash)](https://git.io/typing-svg)
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=TralahM.TralahM)
 
 ### Programming Languages
