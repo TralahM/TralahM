@@ -6,6 +6,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
+![Scala](https://img.shields.io/badge/-Scala-000?&logo=Scala)
 ![Lisp](https://img.shields.io/badge/-Lisp-000?&logo=Lisp)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=kotlin)
@@ -53,6 +54,19 @@
 ![Vagrant](https://img.shields.io/badge/-Vagrant-000?&logo=vagrant)
 ![Xorg](https://img.shields.io/badge/-Xorg-000?&logo=xdotorg)
 
+```
+IN NO EVENT SHALL TRALAHTEK LLC BE LIABLE TO ANY PARTY FOR
+DIRECT, INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, INCLUDING
+LOST PROFITS, ARISING OUT OF THE USE OF ITS SOFTWARE AND ITS
+DOCUMENTATION, EVEN IF TRALAHTEK LLC HAS BEEN ADVISED OF THE
+POSSIBILITY OF SUCH DAMAGE.
+
+TRALAHTEK LLC SPECIFICALLY DISCLAIMS ANY WARRANTIES,
+INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY
+AND FITNESS FOR A PARTICULAR PURPOSE.  THE SOFTWARE PROVIDED HEREUNDER IS
+ON AN "AS IS" BASIS, AND TRALAHTEK LLC HAS NO OBLIGATIONS TO
+PROVIDE MAINTENANCE, SUPPORT, UPDATES, ENHANCEMENTS, OR MODIFICATIONS.
+```
 
 <b>🔥 Github Streaks</b>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tralahm&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=0eaeff&fire=0eaeff&currStreakLabel=0eaeff&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="tralahm" /></p>
