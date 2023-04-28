@@ -54,6 +54,9 @@
 ![Vagrant](https://img.shields.io/badge/-Vagrant-000?&logo=vagrant)
 ![Xorg](https://img.shields.io/badge/-Xorg-000?&logo=xdotorg)
 
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TralahM&layout=compact&theme=github_dark"/>
+
 ```
 IN NO EVENT SHALL TRALAHTEK LLC BE LIABLE TO ANY PARTY FOR
 DIRECT, INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, INCLUDING
