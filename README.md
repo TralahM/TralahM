@@ -57,3 +57,6 @@ PROVIDE MAINTENANCE, SUPPORT, UPDATES, ENHANCEMENTS, OR MODIFICATIONS.
 <b>🔥 Github Streaks</b>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tralahm&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=0eaeff&fire=236f1b&currStreakLabel=0eaeff&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="tralahm" /></p>
 
+<p align="center">
+  <a href="https://wa.me/+12023503418"><img src="https://img.icons8.com/office/50/000000/whatsapp.png"></a>
+</p>
