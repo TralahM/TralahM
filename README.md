@@ -56,7 +56,7 @@ PROVIDE MAINTENANCE, SUPPORT, UPDATES, ENHANCEMENTS, OR MODIFICATIONS.
 <b>🔥 Github Streaks</b>
 <p align="center">
 
-[![TralahM Streak](https://streak-stats.demolab.com/?user=tralahm&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=0eaeff&fire=236f1b&currStreakLabel=0eaeff&title_color=fff&text_color=fff)](https://tralahm.github.io)
+[![Github Streaks](https://streak-stats.demolab.com/?user=tralahm&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=0eaeff&fire=236f1b&currStreakLabel=0eaeff)](https://git.io/streak-stats)
 
 </p>
 
