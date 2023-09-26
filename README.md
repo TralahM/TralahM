@@ -55,6 +55,8 @@ PROVIDE MAINTENANCE, SUPPORT, UPDATES, ENHANCEMENTS, OR MODIFICATIONS.
 ```
 <b>🔥 Github Streaks</b>
 
+<p align="center">
+
 [![Github Streaks](https://gitstreaks-5583911bb450.herokuapp.com/?user=tralahm&theme=black-ice&hide_border=true&stroke=000000&background=0D1117&ring=0eaeff&fire=236f1b&currStreakLabel=0eaeff)](https://git.io/streak-stats)
 
-
+</p>
