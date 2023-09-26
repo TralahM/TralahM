@@ -53,7 +53,8 @@ AND FITNESS FOR A PARTICULAR PURPOSE.  THE SOFTWARE PROVIDED HEREUNDER IS
 ON AN "AS IS" BASIS, AND TRALAHTEK LLC HAS NO OBLIGATIONS TO
 PROVIDE MAINTENANCE, SUPPORT, UPDATES, ENHANCEMENTS, OR MODIFICATIONS.
 ```
-
 <b>🔥 Github Streaks</b>
-<p align="center"><img src="https://streak-stats.demolab.com/?user=tralahm&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=0eaeff&fire=236f1b&currStreakLabel=0eaeff&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="tralahm" /></p>
+<p align="center">
+[![TralahM Streak](https://streak-stats.demolab.com/?user=tralahm&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=0eaeff&fire=236f1b&currStreakLabel=0eaeff&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://tralahm.github.io)
+</p>
 
