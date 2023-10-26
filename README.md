@@ -58,8 +58,4 @@ PROVIDE MAINTENANCE, SUPPORT, UPDATES, ENHANCEMENTS, OR MODIFICATIONS.
 <p align="center">
 
 
-<h2> 📊Github Stats</h2>
-
-<a href="https://github.com/TralahM"><img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TralahM&langs_count=10&count_private=true&layout=compact&theme=black-ice&hide_border=true&title_color=0EAEFF&bg_color=000000" width="300px"/></a>
-
 </p>
