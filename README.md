@@ -57,6 +57,9 @@ PROVIDE MAINTENANCE, SUPPORT, UPDATES, ENHANCEMENTS, OR MODIFICATIONS.
 
 <p align="center">
 
-[![Github Streaks](https://gitstreaks-5583911bb450.herokuapp.com/?user=tralahm&theme=black-ice&hide_border=true&stroke=000000&background=0D1117&ring=0eaeff&fire=236f1b&currStreakLabel=0eaeff)](https://git.io/streak-stats)
+
+<h2> 📊Github Stats</h2>
+
+<a href="https://github.com/TralahM"><img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TralahM&langs_count=10&count_private=true&layout=compact&theme=black-ice&hide_border=true&title_color=0EAEFF&bg_color=000000" width="300px"/></a>
 
 </p>
