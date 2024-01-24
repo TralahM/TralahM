@@ -16,7 +16,6 @@
 ![Scala](https://img.shields.io/badge/-Scala-000?style=for-the-badge&logo=scala)
 ![Go](https://img.shields.io/badge/-Go-000?style=for-the-badge&logo=Go)
 ![C](https://img.shields.io/badge/-C-000?style=for-the-badge&logo=C)
-
 ![Dart](https://img.shields.io/badge/-Dart-000?style=for-the-badge&logo=Dart&logoColor=0175C2)
 ![Flutter](https://img.shields.io/badge/-Flutter-000?style=for-the-badge&logo=Flutter)
 
@@ -45,6 +44,7 @@
 ![EC2](https://img.shields.io/badge/-AmazonEC2-000?style=for-the-badge&logo=amazonec2)
 ![S3](https://img.shields.io/badge/-AmazonS3-000?style=for-the-badge&logo=amazons3)
 ![Terraform](https://img.shields.io/badge/-Terraform-000?style=for-the-badge&logo=terraform)
+
 ![Ansible](https://img.shields.io/badge/-Ansible-000?style=for-the-badge&logo=ansible)
 
 
