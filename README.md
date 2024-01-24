@@ -13,14 +13,14 @@
 ### Tools Of Trade
 
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=Python)
-![Scala](https://img.shields.io/badge/-Scala-000?style=for-the-badge&logo=scala)
+![Scala](https://img.shields.io/badge/-Scala-000?style=for-the-badge&logo=scala&logoColor=ff1512)
 ![Go](https://img.shields.io/badge/-Go-000?style=for-the-badge&logo=Go)
 ![C](https://img.shields.io/badge/-C-000?style=for-the-badge&logo=C)
 ![Dart](https://img.shields.io/badge/-Dart-000?style=for-the-badge&logo=Dart&logoColor=0175C2)
-![Flutter](https://img.shields.io/badge/-Flutter-000?style=for-the-badge&logo=Flutter)
+![Flutter](https://img.shields.io/badge/-Flutter-000?style=for-the-badge&logo=Flutter&logoColor=0175C2)
 
-![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL)
-![PostgreSQL](https://img.shields.io/badge/-Postgresql-000?style=for-the-badge&logo=Postgresql)
+![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&logoColor=00758F)
+![PostgreSQL](https://img.shields.io/badge/-Postgresql-000?style=for-the-badge&logo=Postgresql&logoColor=336791)
 ![Redis](https://img.shields.io/badge/-Redis-000?style=for-the-badge&logo=Redis)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=Firebase)
 ![MongoDB](https://img.shields.io/badge/-Mongodb-000?style=for-the-badge&logo=Mongodb)
@@ -31,7 +31,7 @@
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git&logoColor=F05032)
 ![ArchLinux](https://img.shields.io/badge/-ArchLinux-000?style=for-the-badge&logo=archlinux)
 
-![Pandas](https://img.shields.io/badge/-Pandas-000?style=for-the-badge&logo=pandas)
+![Pandas](https://img.shields.io/badge/-Pandas-000?style=for-the-badge&logo=pandas&logoColor=6ae70F)
 ![Numpy](https://img.shields.io/badge/-Numpy-000?style=for-the-badge&logo=numpy)
 ![Scipy](https://img.shields.io/badge/-Scipy-000?style=for-the-badge&logo=scipy)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-000?style=for-the-badge&logo=jupyter)
@@ -42,9 +42,7 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?style=for-the-badge&logo=Kubernetes)
 ![AWS](https://img.shields.io/badge/-AmazonAWS-000?style=for-the-badge&logo=amazonaws)
 ![EC2](https://img.shields.io/badge/-AmazonEC2-000?style=for-the-badge&logo=amazonec2)
-![S3](https://img.shields.io/badge/-AmazonS3-000?style=for-the-badge&logo=amazons3)
 ![Terraform](https://img.shields.io/badge/-Terraform-000?style=for-the-badge&logo=terraform)
-
 ![Ansible](https://img.shields.io/badge/-Ansible-000?style=for-the-badge&logo=ansible)
 
 
