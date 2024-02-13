@@ -64,7 +64,7 @@ ENHANCEMENTS, OR MODIFICATIONS.
 
 <p align="center">
 
-[![Github Streaks](https://ghstats.scala.caid.cd/?user=tralahm&theme=black-ice&hide_border=true&stroke=000000&background=0D1117&ring=0eaeff&fire=236f1b&currStreakLabel=0eaeff)](https://tralahm.github.io)
+[![Github Streaks](https://ghstats.scala.caid.cd/?user=tralahm&theme=black-ice&hide_border=true&stroke=000000&background=0D1117&ring=0eaeff&fire=236f1b&currStreakLabel=0eaeff)](https://github.com/TralahM)
 
 </p>
 
