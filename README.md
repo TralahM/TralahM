@@ -60,11 +60,11 @@ AND THE AUTHOR HAS NO OBLIGATIONS TO PROVIDE MAINTENANCE, SUPPORT, UPDATES,
 ENHANCEMENTS, OR MODIFICATIONS.
 ```
 
-<b>🔥 Github Streaks</b>
+<b align="center">🔥 Github Streaks</b>
 
-<p align="center">
-
-[![Github Streaks](https://ghstats.scala.caid.cd/?user=tralahm&theme=black-ice&hide_border=true&stroke=000000&background=0D1117&ring=0eaeff&fire=236f1b&currStreakLabel=0eaeff)](https://github.com/TralahM)
-
-</p>
-
+<a href="https://github.com/TralahM" target="_blank">
+  <img height=200 align="center" src="https://ghstats.scala.caid.cd/?user=tralahm&theme=black-ice&hide_border=true&stroke=000000&background=0D1117&ring=0eaeff&fire=236f1b&currStreakLabel=0eaeff" />
+</a>
+<a href="https://github.com/TralahM" target="_blank">
+  <img height=200 align="center" src="https://ghstatstek.vercel.app/api/top-langs/?username=TralahM&langs_count=14&size_weight=0.04&count_weight=0.3&title_color=0eaeff&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true&locale=en&hide=html,css,php,tex,makefile,cmake,xslt,rpc,qmake,tsql,Emacs%20Lisp,gdb,Common%20Lisp,ruby,assembly,rust,nix,matlab,Dockerfile,Jupyter%20Notebook,javascript,gap,roff,batchfile,smarty,procfile,Vim%20Snippet,Objective-C,m4,scheme&layout=compact&hide_progress=true" />
+</a>
