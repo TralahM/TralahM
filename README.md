@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=0EAEFF&center=true&width=435&lines=Software+Craftsman%2C+Computer+Scientist.;7%2B+years+of+Programming+Experience;Python%2C+Scala%2C+Go%2C+Flutter%2C+C%2C+R%2C+SQL%2C+Devops)](https://git.io/typing-svg)
 
+
 - **Talk to me about**:
     + *Functional Programming*(FP), Scala (*ZIO*), Golang, Python.
     + Cloud Architecture, Microservices, System Administration, and DevSecOps
@@ -10,9 +11,8 @@
 
 
 <b align="center">🔥 Github Streaks</b>
-
 <a href="https://github.com/TralahM" target="_blank">
-  <img height=200 align="center" src="https://ghstats.apps.asctnh.org/?user=tralahm&theme=black-ice&hide_border=true&stroke=000000&background=0D1117&ring=0eaeff&fire=236f1b&currStreakLabel=0eaeff" />
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tralahm&theme=black-ice&hide_border=true&stroke=000000&background=0D1117&ring=0eaeff&fire=236f1b&currStreakLabel=0eaeff" alt="TralahM" />
 </a>
 <a href="https://github.com/TralahM" target="_blank">
   <img height=200 align="center" src="https://ghstatstek.vercel.app/api/top-langs/?username=TralahM&langs_count=14&size_weight=0.04&count_weight=0.3&title_color=0eaeff&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true&locale=en&hide=html,css,php,tex,makefile,cmake,xslt,rpc,qmake,tsql,Emacs%20Lisp,gdb,Common%20Lisp,ruby,assembly,rust,nix,matlab,Dockerfile,Jupyter%20Notebook,javascript,gap,roff,batchfile,smarty,procfile,Vim%20Snippet,Objective-C,m4,scheme&layout=compact&hide_progress=true" />
