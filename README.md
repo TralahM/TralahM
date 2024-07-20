@@ -11,6 +11,10 @@
 
 
 <b align="center">🔥 Github Streaks</b>
+<br>
+<br>
+<hr>
+
 <a href="https://github.com/TralahM" target="_blank">
   <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tralahm&theme=black-ice&hide_border=true&stroke=000000&background=0D1117&ring=0eaeff&fire=236f1b&currStreakLabel=0eaeff" alt="TralahM" />
 </a>
