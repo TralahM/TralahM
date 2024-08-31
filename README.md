@@ -1,8 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=0EAEFF&center=true&width=435&lines=Software+Craftsman%2C+Computer+Scientist.;8%2B+years+of+Programming+Experience;Python%2C+Scala%2C+%2CRust+Go%2C+Flutter%2C+C%2C+R%2C+SQL%2C+Devops)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=0EAEFF&center=true&width=435&lines=Software+Craftsman%2C+Computer+Scientist.;8%2B+years+of+Programming+Experience;Python%2C+Scala%2C+Rust%2C+Go%2C+Flutter%2C+C%2C+R%2C+SQL%2C+Devops)](https://github.com/tralahm)
 
 
 - **Talk to me about**:
-    + *Functional Programming*(FP), Scala (*ZIO*),Rust, Golang, Python.
+    + *Functional Programming*(FP), Scala (*ZIO*), Rust, Golang, Python.
     + Cloud Architecture, Microservices, System Administration, and DevSecOps
     + Web Application Development (*Server-Side*)
     + *Data Science* in Python, R, and Spark
