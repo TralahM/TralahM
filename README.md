@@ -43,12 +43,13 @@ ENHANCEMENTS, OR MODIFICATIONS.
 
 ### Tools Of Trade
 
-![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=Python)
 ![Scala](https://img.shields.io/badge/-Scala-000?style=for-the-badge&logo=scala&logoColor=ff1512)
+![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=Python)
 ![Go](https://img.shields.io/badge/-Go-000?style=for-the-badge&logo=Go)
-![C](https://img.shields.io/badge/-C-000?style=for-the-badge&logo=C)
+![Rust](https://img.shields.io/badge/-Rust-000?style=for-the-badge&logo=Rust)
 ![Dart](https://img.shields.io/badge/-Dart-000?style=for-the-badge&logo=Dart&logoColor=0175C2)
 ![Flutter](https://img.shields.io/badge/-Flutter-000?style=for-the-badge&logo=Flutter&logoColor=0175C2)
+![C](https://img.shields.io/badge/-C-000?style=for-the-badge&logo=C)
 ![R](https://img.shields.io/badge/-R-000?style=for-the-badge&logo=R&logoColor=blue)
 ![Pandas](https://img.shields.io/badge/-Pandas-000?style=for-the-badge&logo=pandas&logoColor=6ae70F)
 ![Numpy](https://img.shields.io/badge/-Numpy-000?style=for-the-badge&logo=numpy)
