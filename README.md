@@ -1,10 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=0EAEFF&center=true&width=435&lines=Software+Craftsman%2C+Computer+Scientist.;8%2B+years+of+Programming+Experience;Python%2C+Scala%2C+Rust%2C+Go%2C+Flutter%2C+C%2C+R%2C+SQL%2C+Devops)](https://github.com/tralahm)
 
-[![](https://img.shields.io/badge/X-%40tralahtek-blue?style=for-the-badge&logo=x)](https://x.com/TralahM)
-[![TralahM](https://img.shields.io/badge/Kaggle-TralahM-purple.svg?style=for-the-badge&logo=kaggle)](https://kaggle.com/TralahM)
-[![TralahM](https://img.shields.io/badge/LinkedIn-TralahM-white.svg?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/TralahM)
-
-[![Blog](https://img.shields.io/badge/Blog-tralahm.github.io-blue.svg?style=for-the-badge&logo=rss)](https://tralahm.github.io)
+[![](https://img.shields.io/badge/X-%40TralahM-blue?style=for-the-badge&logo=x)](https://x.com/TralahM)
+[![TralahM](https://img.shields.io/badge/Kaggle-purple.svg?style=for-the-badge&logo=kaggle)](https://kaggle.com/TralahM)
+[![TralahM](https://img.shields.io/badge/LinkedIn-white.svg?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/TralahM)
+[![Blog](https://img.shields.io/badge/Blog-blue.svg?style=for-the-badge&logo=rss)](https://tralahm.github.io)
 
 
 - **Talk to me about**:
