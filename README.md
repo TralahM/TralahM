@@ -1,11 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=0EAEFF&center=true&width=435&lines=Software+Craftsman%2C+Computer+Scientist.;8%2B+years+of+Programming+Experience;Python%2C+Scala%2C+Rust%2C+Go%2C+Flutter%2C+C%2C+R%2C+SQL%2C+Devops)](https://github.com/tralahm)
 
-[![](https://img.shields.io/badge/%20-%40TralahM-blue?style=for-the-badge&logo=x)](https://x.com/TralahM)
-[![TralahM](https://img.shields.io/badge/%20-Kaggle-purple.svg?style=for-the-badge&logo=kaggle)](https://kaggle.com/TralahM)
-[![TralahM](https://img.shields.io/badge/%20-LinkedIn-grey.svg?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/TralahM)
-[![Blog](https://img.shields.io/badge/%20-Blog-blue.svg?style=for-the-badge&logo=rss)](https://tralahm.github.io)
-
-
 - **Talk to me about**:
     + *Functional Programming*(FP), Scala (*ZIO*), Rust, Golang, Python.
     + Cloud Architecture, Microservices, System Administration, and DevSecOps
@@ -14,9 +8,18 @@
     + Mobile App Development in *Flutter*
 
 
+<br>
+
+[![](https://img.shields.io/badge/%20-%40TralahM-blue?style=for-the-badge&logo=x)](https://x.com/TralahM)
+[![TralahM](https://img.shields.io/badge/%20-Kaggle-purple.svg?style=for-the-badge&logo=kaggle)](https://kaggle.com/TralahM)
+[![TralahM](https://img.shields.io/badge/%20-LinkedIn-grey.svg?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/TralahM)
+[![Blog](https://img.shields.io/badge/%20-Blog-blue.svg?style=for-the-badge&logo=rss)](https://tralahm.github.io)
+
+
+
+<br>
 
 <b align="center">🔥 Github Streaks</b>
-<br>
 <br>
 <hr>
 
