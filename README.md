@@ -2,7 +2,7 @@
 
 [![](https://img.shields.io/badge/%20-%40TralahM-blue?style=for-the-badge&logo=x)](https://x.com/TralahM)
 [![TralahM](https://img.shields.io/badge/%20-Kaggle-purple.svg?style=for-the-badge&logo=kaggle)](https://kaggle.com/TralahM)
-[![TralahM](https://img.shields.io/badge/%20-LinkedIn-white.svg?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/TralahM)
+[![TralahM](https://img.shields.io/badge/%20-LinkedIn.svg?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/TralahM)
 [![Blog](https://img.shields.io/badge/%20-Blog-blue.svg?style=for-the-badge&logo=rss)](https://tralahm.github.io)
 
 
