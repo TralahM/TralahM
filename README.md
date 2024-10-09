@@ -1,5 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=0EAEFF&center=true&width=435&lines=Software+Craftsman%2C+Computer+Scientist.;8%2B+years+of+Programming+Experience;Python%2C+Scala%2C+Rust%2C+Go%2C+Flutter%2C+C%2C+R%2C+SQL%2C+Devops)](https://github.com/tralahm)
 
+[![](https://img.shields.io/badge/X-%40tralahtek-blue?style=for-the-badge&logo=x)](https://x.com/TralahM)
+[![TralahM](https://img.shields.io/badge/Kaggle-TralahM-purple.svg?style=for-the-badge&logo=kaggle)](https://kaggle.com/TralahM)
+[![TralahM](https://img.shields.io/badge/LinkedIn-TralahM-white.svg?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/TralahM)
+
+[![Blog](https://img.shields.io/badge/Blog-tralahm.github.io-blue.svg?style=for-the-badge&logo=rss)](https://tralahm.github.io)
+
 
 - **Talk to me about**:
     + *Functional Programming*(FP), Scala (*ZIO*), Rust, Golang, Python.
@@ -23,22 +29,6 @@
 </a>
 
 <br>
-<br>
-
-```
-IN NO EVENT SHALL THE AUTHOR BE LIABLE TO ANY PARTY FOR DIRECT, INDIRECT, SPECIAL,
-INCIDENTAL, OR CONSEQUENTIAL DAMAGES, INCLUDING LOST PROFITS,
-ARISING OUT OF THE USE OF THE AUTHOR'S CODE AND ITS DOCUMENTATION,
-EVEN IF THE AUTHOR HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-
-THE AUTHOR SPECIFICALLY DISCLAIMS ANY WARRANTIES, INCLUDING, BUT NOT LIMITED TO,
-THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
-THE CODE PROVIDED HEREUNDER IS ON AN "AS IS" BASIS,
-AND THE AUTHOR HAS NO OBLIGATIONS TO PROVIDE MAINTENANCE, SUPPORT, UPDATES,
-ENHANCEMENTS, OR MODIFICATIONS.
-```
-
-
 
 
 ### Tools Of Trade
@@ -73,5 +63,23 @@ ENHANCEMENTS, OR MODIFICATIONS.
 ![EC2](https://img.shields.io/badge/-AmazonEC2-000?style=for-the-badge&logo=amazonec2)
 ![Terraform](https://img.shields.io/badge/-Terraform-000?style=for-the-badge&logo=terraform)
 ![Ansible](https://img.shields.io/badge/-Ansible-000?style=for-the-badge&logo=ansible)
+
+
+<br>
+<br>
+<hr>
+
+```
+IN NO EVENT SHALL THE AUTHOR BE LIABLE TO ANY PARTY FOR DIRECT, INDIRECT, SPECIAL,
+INCIDENTAL, OR CONSEQUENTIAL DAMAGES, INCLUDING LOST PROFITS,
+ARISING OUT OF THE USE OF THE AUTHOR'S CODE AND ITS DOCUMENTATION,
+EVEN IF THE AUTHOR HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+THE AUTHOR SPECIFICALLY DISCLAIMS ANY WARRANTIES, INCLUDING, BUT NOT LIMITED TO,
+THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+THE CODE PROVIDED HEREUNDER IS ON AN "AS IS" BASIS,
+AND THE AUTHOR HAS NO OBLIGATIONS TO PROVIDE MAINTENANCE, SUPPORT, UPDATES,
+ENHANCEMENTS, OR MODIFICATIONS.
+```
 
 
