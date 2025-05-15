@@ -9,10 +9,9 @@
   - App Development in _Flutter_
 
 <br/>
+<br/>
 
----
-
-### Tools Of Trade
+<b align="center">Tools Of Trade </b>
 
 ![Rust](https://img.shields.io/badge/-Rust-000?style=for-the-badge&logo=Rust&logoColor=980000)
 ![Go](https://img.shields.io/badge/-Go-000?style=for-the-badge&logo=Go)
@@ -37,12 +36,10 @@
 
 
 <br/>
-
-<hr/>
+<br/>
 
 <b align="center">🔥 Contribution Streak</b>
 <br/>
-
 
 [![Stats](https://gh.yabiso.novatta.co.ke/stats?user=tralahm&theme=black-ice&hide_border=true&stroke=000000&background=0D1117&ring=0eaeff&fire=236f1b&currStreakLabel=0eaeff)](https://gh.yabiso.novatta.co.ke/stats/?user=tralahm)
 ![TopLangs](https://ghstatstek.vercel.app/api/top-langs/?username=TralahM&langs_count=14&size_weight=0.04&count_weight=0.3&title_color=0eaeff&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true&locale=en&hide=html,css,php,tex,makefile,cmake,xslt,rpc,qmake,tsql,Emacs%20Lisp,gdb,Common%20Lisp,ruby,assembly,nix,matlab,Dockerfile,Jupyter%20Notebook,javascript,gap,roff,batchfile,smarty,procfile,Vim%20Snippet,Objective-C,m4,scheme&layout=compact&hide_progress=true)
@@ -50,10 +47,9 @@
 
 <br/>
 
----
 
 <br/>
-
+<b align="center">Legalese</b>
 
 ```
 IN NO EVENT SHALL THE AUTHOR BE LIABLE TO ANY PARTY FOR DIRECT, INDIRECT, SPECIAL,
@@ -69,6 +65,8 @@ ENHANCEMENTS, OR MODIFICATIONS.
 ```
 
 <br/>
+
+<b align="center">Find Me On:</b>
 
 [![](https://img.shields.io/badge/%20-%40TralahM-grey?style=for-the-badge&logo=x)](https://x.com/TralahM)
 [![Kaggle](https://img.shields.io/badge/%20-Kaggle-grey.svg?style=for-the-badge&logo=kaggle)](https://kaggle.com/TralahM)
