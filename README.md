@@ -14,12 +14,12 @@
 [![TralahM](https://img.shields.io/badge/%20-LinkedIn-grey.svg?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/TralahM)
 [![Blog](https://img.shields.io/badge/%20-Blog-grey.svg?style=for-the-badge&logo=rss)](https://tralahm.github.io)
 
-<br>
+<br/>
 
 <b align="center">🔥 Github Streaks</b>
-<br>
+<br/>
 
-<hr>
+<hr/>
 
 
 
@@ -39,38 +39,29 @@
 ### Tools Of Trade
 
 ![Rust](https://img.shields.io/badge/-Rust-000?style=for-the-badge&logo=Rust&logoColor=980000)
-![Scala](https://img.shields.io/badge/-Scala-000?style=for-the-badge&logo=scala&logoColor=ff1512)
 ![Go](https://img.shields.io/badge/-Go-000?style=for-the-badge&logo=Go)
-![Dart](https://img.shields.io/badge/-Dart-000?style=for-the-badge&logo=Dart&logoColor=0175C2)
 ![Flutter](https://img.shields.io/badge/-Flutter-000?style=for-the-badge&logo=Flutter&logoColor=0175C2)
-![C](https://img.shields.io/badge/-C-000?style=for-the-badge&logo=C)
 
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=Python)
-![Pandas](https://img.shields.io/badge/-Pandas-000?style=for-the-badge&logo=pandas&logoColor=6ae70F)
-![Numpy](https://img.shields.io/badge/-Numpy-000?style=for-the-badge&logo=numpy)
-![Scipy](https://img.shields.io/badge/-Scipy-000?style=for-the-badge&logo=scipy)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-000?style=for-the-badge&logo=jupyter)
-![Django](https://img.shields.io/badge/-Django-000?style=for-the-badge&logo=Django)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-000?style=for-the-badge&logo=opencv)
 
-![Bash](https://img.shields.io/badge/-Bash-000?style=for-the-badge&logo=gnubash)
-![Vim](https://img.shields.io/badge/-Vim-000?style=for-the-badge&logo=Vim)
+![Scala](https://img.shields.io/badge/-Scala-000?style=for-the-badge&logo=scala&logoColor=ff1512)
 ![NeoVim](https://img.shields.io/badge/-NeoVim-000?style=for-the-badge&logo=neovim)
-![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git&logoColor=F05032)
 ![ArchLinux](https://img.shields.io/badge/-ArchLinux-000?style=for-the-badge&logo=archlinux)
 
 ![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&logoColor=00758F)
 ![PostgreSQL](https://img.shields.io/badge/-Postgresql-000?style=for-the-badge&logo=Postgresql&logoColor=336791)
-![Redis](https://img.shields.io/badge/-Redis-000?style=for-the-badge&logo=Redis)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=Firebase)
 
 ![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=Docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?style=for-the-badge&logo=Kubernetes)
-![AWS](https://img.shields.io/badge/-AmazonAWS-000?style=for-the-badge&logo=amazonaws)
-![EC2](https://img.shields.io/badge/-AmazonEC2-000?style=for-the-badge&logo=amazonec2)
 ![Terraform](https://img.shields.io/badge/-Terraform-000?style=for-the-badge&logo=terraform)
 ![Ansible](https://img.shields.io/badge/-Ansible-000?style=for-the-badge&logo=ansible)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?style=for-the-badge&logo=Kubernetes)
 
+![AWS](https://img.shields.io/badge/-AmazonAWS-000?style=for-the-badge&logo=amazon-ec2)
+![Digital Ocean](https://img.shields.io/badge/-DigitalOcean-000?style=for-the-badge&logo=digitalocean)
+![Google Cloud](https://img.shields.io/badge/-GoogleCloud-000?style=for-the-badge&logo=googlecloud)
 <br>
 <br>
 <hr>
