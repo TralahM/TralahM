@@ -2,11 +2,11 @@
 
 <b align="center">Talk to me about: </b>
 
-  - _Functional Programming_(FP), Rust, GoLang, Python, Scala (_ZIO_).
-  - Web Application Development (_Server-Side_)
-  - Cloud Infrastructure, Server Administration, Security, and DevOps
-  - _Data Science_ & _Machine Learning_ in Python, and R.
-  - App Development in _Flutter_
+- _Functional Programming_(FP), Rust, GoLang, Python, Scala (_ZIO_).
+- Web Application Development (_Server-Side_)
+- Cloud Infrastructure, Server Administration, Security, and DevOps
+- _Data Science_ & _Machine Learning_ in Python, and R.
+- App Development in _Flutter_
 
 <br/>
 <br/>
@@ -22,7 +22,6 @@
 ![Scala](https://img.shields.io/badge/-Scala-000?style=for-the-badge&logo=scala&logoColor=ff1512)
 ![NeoVim](https://img.shields.io/badge/-NeoVim-000?style=for-the-badge&logo=neovim)
 ![ArchLinux](https://img.shields.io/badge/-ArchLinux-000?style=for-the-badge&logo=archlinux)
-
 ![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&logoColor=00758F)
 ![PostgreSQL](https://img.shields.io/badge/-Postgresql-000?style=for-the-badge&logo=Postgresql&logoColor=336791)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=Firebase&logoColor=aa950F)
@@ -34,19 +33,7 @@
 ![Digital Ocean](https://img.shields.io/badge/-DigitalOcean-000?style=for-the-badge&logo=digitalocean)
 ![Google Cloud](https://img.shields.io/badge/-GoogleCloud-000?style=for-the-badge&logo=googlecloud)
 
-
 <br/>
-<br/>
-
-<b align="center">🔥 Contribution Streak</b>
-<br/>
-
-[![Stats](https://gh.yabiso.novatta.co.ke/stats?user=tralahm&theme=black-ice&hide_border=true&stroke=000000&background=0D1117&ring=0eaeff&fire=236f1b&currStreakLabel=0eaeff)](https://gh.yabiso.novatta.co.ke/stats/?user=tralahm)
-![TopLangs](https://ghstatstek.vercel.app/api/top-langs/?username=TralahM&langs_count=14&size_weight=0.04&count_weight=0.3&title_color=0eaeff&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true&locale=en&hide=html,css,php,tex,makefile,cmake,xslt,rpc,qmake,tsql,Emacs%20Lisp,gdb,Common%20Lisp,ruby,assembly,nix,matlab,Dockerfile,Jupyter%20Notebook,javascript,gap,roff,batchfile,smarty,procfile,Vim%20Snippet,Objective-C,m4,scheme&layout=compact&hide_progress=true)
-
-
-<br/>
-
 
 <br/>
 <b align="center">Legalese</b>
@@ -68,9 +55,7 @@ ENHANCEMENTS, OR MODIFICATIONS.
 
 <b align="center">Find Me On:</b>
 
-[![](https://img.shields.io/badge/%20-%40TralahM-grey?style=for-the-badge&logo=x)](https://x.com/TralahM)
 [![Kaggle](https://img.shields.io/badge/%20-Kaggle-grey.svg?style=for-the-badge&logo=kaggle)](https://kaggle.com/TralahM)
-[![LinkedIn](https://img.shields.io/badge/%20-LinkedIn-grey.svg?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/TralahM)
 [![Blog](https://img.shields.io/badge/%20-Blog-grey.svg?style=for-the-badge&logo=rss)](https://tralahm.github.io)
 
 <br/>
