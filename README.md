@@ -11,30 +11,6 @@
 <br/>
 <br/>
 
-<b align="center">Tools Of Trade </b>
-
-![Rust](https://img.shields.io/badge/-Rust-000?style=for-the-badge&logo=Rust&logoColor=980000)
-![Go](https://img.shields.io/badge/-Go-000?style=for-the-badge&logo=Go)
-![Flutter](https://img.shields.io/badge/-Flutter-000?style=for-the-badge&logo=Flutter&logoColor=0175C2)
-![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=Python)
-![Jupyter](https://img.shields.io/badge/-Jupyter-000?style=for-the-badge&logo=jupyter)
-![OpenCV](https://img.shields.io/badge/-OpenCV-000?style=for-the-badge&logo=opencv)
-![Scala](https://img.shields.io/badge/-Scala-000?style=for-the-badge&logo=scala&logoColor=ff1512)
-![NeoVim](https://img.shields.io/badge/-NeoVim-000?style=for-the-badge&logo=neovim)
-![ArchLinux](https://img.shields.io/badge/-ArchLinux-000?style=for-the-badge&logo=archlinux)
-![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&logoColor=00758F)
-![PostgreSQL](https://img.shields.io/badge/-Postgresql-000?style=for-the-badge&logo=Postgresql&logoColor=336791)
-![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=Firebase&logoColor=aa950F)
-![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=Docker)
-![Terraform](https://img.shields.io/badge/-Terraform-000?style=for-the-badge&logo=terraform)
-![Ansible](https://img.shields.io/badge/-Ansible-000?style=for-the-badge&logo=ansible)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?style=for-the-badge&logo=Kubernetes)
-![AWS](https://img.shields.io/badge/-AmazonAWS-000?style=for-the-badge&logo=amazon-ec2)
-![Digital Ocean](https://img.shields.io/badge/-DigitalOcean-000?style=for-the-badge&logo=digitalocean)
-![Google Cloud](https://img.shields.io/badge/-GoogleCloud-000?style=for-the-badge&logo=googlecloud)
-
-<br/>
-
 <br/>
 <b align="center">Legalese</b>
 
@@ -50,12 +26,5 @@ THE CODE PROVIDED HEREUNDER IS ON AN "AS IS" BASIS,
 AND THE AUTHOR HAS NO OBLIGATIONS TO PROVIDE MAINTENANCE, SUPPORT, UPDATES,
 ENHANCEMENTS, OR MODIFICATIONS.
 ```
-
-<br/>
-
-<b align="center">Find Me On:</b>
-
-[![Kaggle](https://img.shields.io/badge/%20-Kaggle-grey.svg?style=for-the-badge&logo=kaggle)](https://kaggle.com/TralahM)
-[![Blog](https://img.shields.io/badge/%20-Blog-grey.svg?style=for-the-badge&logo=rss)](https://tralahm.github.io)
 
 <br/>
