@@ -1,14 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=0EAEFF&center=true&width=435&lines=Software+Craftsman%2C+Computer+Scientist.;8%2B+years+of+Programming+Experience;Python%2C+Scala%2C+Rust%2C+Go%2C+Flutter%2C+C%2C+SQL%2C+Devops)](https://github.com/tralahm)
-
 <b align="center">Talk to me about: </b>
 
-- _Functional Programming_(FP), Rust, GoLang, Python, Scala (_ZIO_).
-- Web Application Development (_Server-Side_)
-- Cloud Infrastructure, Server Administration, Security, and DevOps
-- _Data Science_ & _Machine Learning_ in Python, and R.
+- _Programming In_ Rust, GoLang, Python, Scala (_ZIO_).
+- Backend (_Server-Side_) Application Development
+- Systems Integration and Automation
+- Cloud Infrastructure, System Administration, Security, and DevOps
+- _Data Science_ & _Machine Learning_.
 - App Development in _Flutter_
 
-<br/>
 <br/>
 
 <br/>
